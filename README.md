@@ -28,10 +28,10 @@ NIM : 1313624013
 15. Logout (Seller)
 
 # Collaborators (The person you learned from)
-1. ..........
+1. none
 
 # Students (the person you taught to complete the assignments)
-1. ...........
+1. none
 
 # AI Assistance
 AI Tools: ChatGpt 
